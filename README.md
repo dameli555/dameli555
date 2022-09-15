@@ -1,4 +1,4 @@
-# Hey there :wave:
+
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -8,7 +8,7 @@
 
 
 ## About me
-Hello my name Dameli Mussylmankul. I'm QA Authomation and Manual Engeener with 3+ years experience 
+#Hello my name Dameli Mussylmankul :wave: I'm QA Authomation and Manual Engeener with 3+ years experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
 <!--
 **dameli555/dameli555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
