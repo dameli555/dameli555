@@ -8,7 +8,7 @@
 
 
 ## About me
-Hello my name Dameli Mussylmankul :wave: I'm QA Authomation and Manual Engeener with 3+ years experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
+Hello my name Dameli Mussylmankul :wave: I'm QA Authomation and Manual Engeener with 4+ years experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
 - 🌱 my creodo is always believe in yourself 
 - :mailbox:How to find me:<div id="badges">
  
